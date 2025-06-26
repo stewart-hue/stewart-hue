@@ -1,8 +1,13 @@
-## Hi, I'm Stewart
 
-Software Engineer  student at KCA <br/>
-I create themed desktop apps to stay consistent<br/>
 
+
+##👋 Hi, I’m Stewart Njoroge <br/>
+💻 Full-Stack Developer | React • TypeScript • Firebase • Django • Node.js <br/>
+🚀 Passionate about building modern web apps with clean UI and scalable architecture <br/>
+🔐 Currently exploring role-based authentication, secure admin dashboards, and REST APIs with Django <br/>
+📊 Interested in data analytics, cybersecurity, and cloud deployment <br/>
+🌱 Always learning, always coding <br/>
+📫 Reach me at: stewartnjoroge25@gmail.com <br/>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stewartnjoroge25@gmail.com) 
