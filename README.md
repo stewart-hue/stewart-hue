@@ -1,7 +1,7 @@
 
 
 
-##👋 Hi, I’m Stewart Njoroge <br/>
+👋 Hi, I’m Stewart Njoroge <br/>
 💻 Full-Stack Developer | React • TypeScript • Firebase • Django • Node.js <br/>
 🚀 Passionate about building modern web apps with clean UI and scalable architecture <br/>
 🔐 Currently exploring role-based authentication, secure admin dashboards, and REST APIs with Django <br/>
