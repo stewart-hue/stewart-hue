@@ -1,6 +1,6 @@
 ## Hi, I'm Stewart
 
-Software Engineer at KCA <br/>
+Software Engineer  student at KCA <br/>
 I create themed desktop apps to stay consistent<br/>
 
 
